@@ -77,6 +77,8 @@
                     // EmployeeService project before running it
                     success: function (response) {
                         sessionStorage.setItem("accessToken", response.access_token);
+                        sessionStorage.setItem("userName", response.userName);
+
                         window.location.href = "Data.html";
                     },
                     // Display errors if any in the Bootstrap alert <div>
