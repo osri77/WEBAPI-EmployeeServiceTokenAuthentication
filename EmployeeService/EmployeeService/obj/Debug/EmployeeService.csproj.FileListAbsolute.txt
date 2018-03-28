@@ -87,4 +87,3 @@ C:\Temp\WEBAPI\WebAPITokenAuthentication\EmployeeService\EmployeeService\bin\Mic
 C:\Temp\WEBAPI\WebAPITokenAuthentication\EmployeeService\EmployeeService\bin\System.Web.Http.Owin.xml
 C:\Temp\WEBAPI\WebAPITokenAuthentication\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
 C:\Temp\WEBAPI\WebAPITokenAuthentication\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
-C:\Temp\WEBAPI\WebAPITokenAuthentication\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csprojResolveAssemblyReference.cache
