@@ -85,6 +85,5 @@ C:\Temp\WEBAPI\WebAPITokenAuthentication\EmployeeService\EmployeeService\bin\Mic
 C:\Temp\WEBAPI\WebAPITokenAuthentication\EmployeeService\EmployeeService\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Temp\WEBAPI\WebAPITokenAuthentication\EmployeeService\EmployeeService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Temp\WEBAPI\WebAPITokenAuthentication\EmployeeService\EmployeeService\bin\System.Web.Http.Owin.xml
-C:\Temp\WEBAPI\WebAPITokenAuthentication\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csprojResolveAssemblyReference.cache
 C:\Temp\WEBAPI\WebAPITokenAuthentication\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
 C:\Temp\WEBAPI\WebAPITokenAuthentication\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
